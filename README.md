@@ -7,6 +7,6 @@
 #### Overall, Notify is a lightweight and user-friendly note-taking app that offers convenient features for capturing and organizing information on the go.
 
 
-#### Website - https://bit.ly/Notify-app
+#### Website - https://bit.ly/notify-web-app
 #### Languages - HTML, CSS, JavaScript
 #### Frameworks - Node.js, React.js
